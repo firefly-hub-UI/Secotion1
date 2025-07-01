@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>My Resume</title>
+</head>
+<body style="font-family: Arial, sans-serif; margin: 40px; line-height: 1.6;">
+  <h1 style="color: #6a8eb1;">Sai Prasad Chary Kammari</h1>
+  <h3>Engineering Student | Aspiring Developer | Content Creator</h3>
+  
+  <p>
+    <strong>Email:   </strong> saiprasad@example.com<br>
+    <strong>Phone:   </strong> +91-9876543210<br>
+    <strong>LinkedIn:</strong> linkedin.com/in/saiprasad<br>
+    <strong>GitHub:  </strong> github.com/saiprasadchary<br>
+    <strong>Location:</strong> Hyderabad, India
+  </p>
+
+  <hr>
+
+  <h2>Summary</h2>
+  <p>Passionate engineering student with a strong interest in software development, content creation, and community engagement. Skilled in Python, DSA, and web development. Actively seeking opportunities to apply and grow my skills in a challenging environment.</p>
+
+  <h2>Skills</h2>
+  <ul>
+    <li>Programming: Python, Java, HTML, CSS, SQL</li>
+    <li>Tools: VS Code, Git, Canva</li>
+    <li>Concepts: Data Structures, Algorithms, OOP, DBMS</li>
+    <li>Soft Skills: Communication, Teamwork, Problem-Solving</li>
+  </ul>
+
+  <h2>Education</h2>
+  <p><strong>B.Tech in Computer Science</strong><br>
+  Malla Reddy College of Engineering, Hyderabad<br>
+  2022 - Present</p>
+
+  <h2>Projects</h2>
+  <ul>
+    <li><strong>Portfolio Website:</strong> A personal website built using HTML and CSS to showcase my projects and resume.</li>
+    <li><strong>SQL Employee DB:</strong> Created a relational database using SQL to manage employee records with queries and joins.</li>
+    <li><strong>DSA Visualizer:</strong> Python-based tool to visualize sorting algorithms for educational purposes.</li>
+  </ul>
+
+  <h2>Certifications</h2>
+  <ul>
+    <li>Python for Everybody – Coursera</li>
+    <li>Data Structures in Python – GeeksforGeeks</li>
+    <li>SQL Masterclass – Udemy</li>
+  </ul>
+
+  <h2>Languages</h2>
+  <ul>
+    <li>English – Fluent</li>
+    <li>Telugu – Native</li>
+    <li>Hindi – Intermediate</li>
+  </ul>
+
+  <hr>
+</body>
+</html>
